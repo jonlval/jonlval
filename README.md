@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonlval
-- 👀 I’m interested in computer software that could help promote small local businesses in my community and help me create a business for myself.
+- 👀 I’m interested in software development, education, nature, and photography
 - 🌱 I’m currently learning software Development, Canva, Photography, photoshop, and marketing
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on software development and photoshop
 - 📫 How to reach me, by email: jonathan_l_valdez@nnmc.edu
 
 <!---
